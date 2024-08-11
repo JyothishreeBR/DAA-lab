@@ -38,6 +38,7 @@ void exec()
  
  // best case
  for(int i=5;i<=50;i+=5){
+ 
  int a[i];
   if(i<=10)
  {
